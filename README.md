@@ -16,7 +16,7 @@
 
 ### Test
 
-1. In AWS Console, select “API Gateway”. Select “api-gateway” 
+1. In AWS Console, Select “api-gateway” 
 2. Select “Stages” on the left pane
 3. Click “dev” > “POST” (within the “/login” route)
 4. Copy the invoke Url. A sample url will be like this -  https://qvu8vlu0u4.execute-api.us-east-1.amazonaws.com/dev/login
