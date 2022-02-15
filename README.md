@@ -12,6 +12,8 @@
     $ terraform apply –auto-approve
     ```
 
+![aws api events capture sqs, lambda, glue, firehose and s3](https://github.com/sainipradeep/aws-api-events-capture-glue-firehose-and-s3/blob/master/architecture.jpg?raw=true)
+
 ### Test
 
 1. In AWS Console, select “API Gateway”. Select “api-gateway” 
